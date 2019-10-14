@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "214155830655",
+    "firebase_url": "https://parcelbox-6c579.firebaseio.com",
+    "project_id": "parcelbox-6c579",
+    "storage_bucket": "parcelbox-6c579.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214155830655:android:a9f34b0ef84f58b428a64a",
+        "android_client_info": {
+          "package_name": "com.example.parcelbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214155830655-fo36m366819rjn6v9sutq84o81gpokoo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parcelbox",
+            "certificate_hash": "0f20a8c93f9eb78365f6b5194959b3fe3b09a79b"
+          }
+        },
+        {
+          "client_id": "214155830655-d7jsohgdbi3vl6qtecov4kqltuu5vv55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWUHlpYcynAwyOzp6LEXni1oX4koomMns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214155830655-d7jsohgdbi3vl6qtecov4kqltuu5vv55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
